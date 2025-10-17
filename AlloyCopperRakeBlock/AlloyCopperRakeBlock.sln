@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlloyCopperRakeBlock", "AlloyCopperRakeBlock\AlloyCopperRakeBlock.csproj", "{0D63440A-F226-41AD-ABB1-C3D28C49F22E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D63440A-F226-41AD-ABB1-C3D28C49F22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D63440A-F226-41AD-ABB1-C3D28C49F22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D63440A-F226-41AD-ABB1-C3D28C49F22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D63440A-F226-41AD-ABB1-C3D28C49F22E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
