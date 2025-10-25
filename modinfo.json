@@ -3,10 +3,11 @@
     "Version": "1.1.1" ,
     "ApiVersion": "1.80",
     "Description": "Offer new tools for your world, now translated into English",
-    "ScVersion": "2.3.0.0",
+    "ScVersion": "2.4.0.0",
     "Link": "",
     "Author": "浮生若梦, Samuelsan03",
     "PackageName": "更多工具",
     "Dependencies": []
 
 }
+
