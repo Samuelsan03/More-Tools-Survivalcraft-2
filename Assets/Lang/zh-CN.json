@@ -1,0 +1,119 @@
+{
+  "Blocks": {
+    "SteelShovelBlock:0": {
+      "DisplayName": "钢铲",
+      "Description": "铲子是用于挖掘由松散材料（例如沙子或砾石）制成的块的工具。它们大大加快了挖掘过程，但最终它们会因为受到严重损坏而被丢弃。 由更好材料制成的铲子使用寿命更长，挖掘速度更快。",
+      "CRDescription:0": "用铁铲和铁锭制作钢铲"
+    },
+    "SteelPickaxeBlock:0": {
+      "DisplayName": "钢镐",
+      "Description": "镐是用于采石块或冰块等硬块的工具。 它们大大加快了采石过程，但最终它们会因为受到严重损坏而被丢弃。由更好的材料制成的镐寿命更长，采石更快。",
+      "CRDescription:0": "用铁镐和铁锭制作钢镐"
+    },
+    "SteelAxeBlock:0": {
+      "DisplayName": "钢斧",
+      "Description": "钢斧是用于切割软块的工具，例如木材，家具或树叶。 它们大大加快了切割过程，但最终它们会因为受到严重损坏而被丢弃。由更好材料制成的轴使用寿命更长，切割速度更快。 斧头也是一种强大的武器，虽然很难击中移动的目标。",
+      "CRDescription:0": "用铁斧和铁锭制作钢斧"
+    },
+    "SteelRakeBlock:0": {
+      "DisplayName": "钢钉耙",
+      "Description": "耙子是将泥土转化为田地的工具。 在耙子把泥土转化成田地后，就可以种植。 耙子最终会因为受到严重损坏而被丢弃。 由更好材料制成的耙子使用寿命更长。",
+      "CRDescription:0": "用铁钉耙和铁锭制作钢钉耙"
+    },
+    "SteelSpearBlock:0": {
+      "DisplayName": "钢矛",
+      "Description": "长矛是一种多用途武器，既可以投掷也可以用于近战攻击。 使用时，它最终会失去锐度并损坏。 用更好的材料制成的长矛将持续更长时间并造成更多伤害。 抛出的长矛会粘在柔软的材料上。 可能很难移除过于难以嵌入自身的长矛。",
+      "CRDescription:0": "用铁矛和铁锭制作钢矛"
+    },
+    "SteelMacheteBlock:0": {
+      "DisplayName": "钢砍刀",
+      "Description": "砍刀是一种简单的剑，像削减武器，对近战攻击非常有效。 使用时，弯刀会逐渐失去锋利并最终损坏。 由更好材料制成的弯刀将持续更长时间并造成更多损坏。",
+      "CRDescription:0": "用铁砍刀和铁锭制作钢砍刀"
+    },
+    "SteelHammerBlock:0": {
+      "DisplayName": "钢锤",
+      "Description": "钢锤是用于采石块或冰块等硬块的工具。 它拥有最快的采石过程，但最终它们会因为受到严重损坏而被丢弃。",
+      "CRDescription:0": "用铁锤和铁锭制作钢锤"
+    },
+    "AlloyCopperShovelBlock:0": {
+      "DisplayName": "合金铜铲",
+      "Description": "合金铜工具，可以做到钢工具的性能，但是耐久度没有钢工具优秀。",
+      "CRDescription:0": "用铜铲和铜锭制作合金铜铲"
+    },
+    "AlloyCopperPickaxeBlock:0": {
+      "DisplayName": "合金铜镐",
+      "Description": "合金铜工具，可以做到钢工具的性能，但是耐久度没有钢工具优秀。",
+      "CRDescription:0": "用铜镐和铜锭制作合金铜镐"
+    },
+    "AlloyCopperAxeBlock:0": {
+      "DisplayName": "合金铜斧",
+      "Description": "合金铜工具，可以做到钢工具的性能，但是耐久度没有钢工具优秀。",
+      "CRDescription:0": "用铜斧和铜锭制作合金铜斧"
+    },
+    "AlloyCopperRakeBlock:0": {
+      "DisplayName": "合金铜钉耙",
+      "Description": "合金铜工具，可以做到钢工具的性能，但是耐久度没有钢工具优秀。",
+      "CRDescription:0": "用铜钉耙和铜锭制作合金铜钉耙"
+    },
+    "AlloyCopperSpearBlock:0": {
+      "DisplayName": "合金铜矛",
+      "Description": "合金铜工具，可以做到钢工具的性能，但是耐久度没有钢工具优秀。",
+      "CRDescription:0": "用铜矛和铜锭制作合金铜矛"
+    },
+    "AlloyCopperMacheteBlock:0": {
+      "DisplayName": "合金铜砍刀",
+      "Description": "合金铜工具，可以做到钢工具的性能，但是耐久度没有钢工具优秀。",
+      "CRDescription:0": "用铜砍刀和铜锭制作合金铜砍刀"
+    },
+    "AlloyCopperHammerBlock:0": {
+      "DisplayName": "合金铜锤",
+      "Description": "合金铜工具，可以做到钢工具的性能，但是耐久度没有钢工具优秀。",
+      "CRDescription:0": "用铜锤和铜锭制作合金铜锤"
+    },
+    "CopperHammerBlock:0": {
+      "DisplayName": "铜锤",
+      "Description": "铜锤是用于采石块或冰块等硬块的工具。 它拥有较快的采石过程，但最终它们会因为受到严重损坏而被丢弃。",
+      "CRDescription:0": "用木棍和铜锭制作铜锤"
+    },
+    "DiamondHammerBlock:0": {
+      "DisplayName": "钻石锤",
+      "Description": "钻石锤是用于采石块或冰块等硬块的工具。 它拥有较快的采石过程，但最终它们会因为受到严重损坏而被丢弃。",
+      "CRDescription:0": "用木棍和钻石制作钻石锤"
+    },
+    "CrystalShovelBlock:0": {
+      "DisplayName": "水晶铲",
+      "Description": "铲子是用于挖掘由松散材料（例如沙子或砾石）制成的块的工具。它们大大加快了挖掘过程，但最终它们会因为受到严重损坏而被丢弃。 由更好材料制成的铲子使用寿命更长，挖掘速度更快。",
+      "CRDescription:0": "用钻石铲和钻石制作水晶铲"
+    },
+    "CrystalPickaxeBlock:0": {
+      "DisplayName": "水晶镐",
+      "Description": "镐是用于采石块或冰块等硬块的工具。 它们大大加快了采石过程，但最终它们会因为受到严重损坏而被丢弃。由更好的材料制成的镐寿命更长，采石更快。",
+      "CRDescription:0": "用钻石镐和钻石制作水晶镐"
+    },
+    "CrystalAxeBlock:0": {
+      "DisplayName": "水晶斧",
+      "Description": "斧子是用于切割软块的工具，例如木材，家具或树叶。 它们大大加快了切割过程，但最终它们会因为受到严重损坏而被丢弃。由更好材料制成的轴使用寿命更长，切割速度更快。 斧头也是一种强大的武器，虽然很难击中移动的目标。",
+      "CRDescription:0": "用钻石斧和钻石制作水晶斧"
+    },
+    "CrystalRakeBlock:0": {
+      "DisplayName": "水晶耙",
+      "Description": "耙子是将泥土转化为田地的工具。 在耙子把泥土转化成田地后，就可以种植。 耙子最终会因为受到严重损坏而被丢弃。 由更好材料制成的耙子使用寿命更长。",
+      "CRDescription:0": "用钻石耙和钻石制作水晶耙"
+    },
+    "CrystalSpearBlock:0": {
+      "DisplayName": "水晶矛",
+      "Description": "长矛是一种多用途武器，既可以投掷也可以用于近战攻击。 使用时，它最终会失去锐度并损坏。 用更好的材料制成的长矛将持续更长时间并造成更多伤害。 抛出的长矛会粘在柔软的材料上。 可能很难移除过于难以嵌入自身的长矛。",
+      "CRDescription:0": "用钻石矛和钻石制作水晶矛"
+    },
+    "CrystalMacheteBlock:0": {
+      "DisplayName": "水晶刀",
+      "Description": "砍刀是一种简单的剑，像削减武器，对近战攻击非常有效。 使用时，弯刀会逐渐失去锋利并最终损坏。 由更好材料制成的弯刀将持续更长时间并造成更多损坏。",
+      "CRDescription:0": "用钻石砍刀和钻石制作水晶刀"
+    },
+    "CrystalHammerBlock:0": {
+      "DisplayName": "水晶锤",
+      "Description": "水晶锤是用于采石块或冰块等硬块的工具。 它拥有最快的采石过程，但最终它们会因为受到严重损坏而被丢弃。",
+      "CRDescription:0": "用钻石锤和钻石制作水晶锤"
+    }
+  }
+}

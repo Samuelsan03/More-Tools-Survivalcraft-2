@@ -1,0 +1,119 @@
+{
+  "Blocks": {
+    "SteelShovelBlock:0": {
+      "DisplayName": "Steel Shovel",
+      "Description": "Shovels are tools used for digging blocks made of loose materials such as sand or gravel. They greatly speed up the digging process, but eventually they will be discarded due to severe damage. Shovels made from better materials last longer and dig faster.",
+      "CRDescription:0": "Craft with iron shovel and iron ingot"
+    },
+    "SteelPickaxeBlock:0": {
+      "DisplayName": "Steel Pickaxe",
+      "Description": "Pickaxes are tools used for mining hard blocks such as stone or ice. They greatly speed up the mining process, but eventually they will be discarded due to severe damage. Pickaxes made from better materials last longer and mine faster.",
+      "CRDescription:0": "Craft with iron pickaxe and iron ingot"
+    },
+    "SteelAxeBlock:0": {
+      "DisplayName": "Steel Axe",
+      "Description": "Steel axe is a tool used for cutting soft blocks such as wood, furniture, or leaves. They greatly speed up the cutting process, but eventually they will be discarded due to severe damage. Axes made from better materials last longer and cut faster. The axe is also a powerful weapon, although it is difficult to hit moving targets.",
+      "CRDescription:0": "Craft with iron axe and iron ingot"
+    },
+    "SteelRakeBlock:0": {
+      "DisplayName": "Steel Rake",
+      "Description": "Rakes are tools that convert soil into farmland. After the rake turns soil into farmland, it can be planted. Rakes will eventually be discarded due to severe damage. Rakes made from better materials last longer.",
+      "CRDescription:0": "Craft with iron rake and iron ingot"
+    },
+    "SteelSpearBlock:0": {
+      "DisplayName": "Steel Spear",
+      "Description": "The spear is a versatile weapon that can be both thrown and used for melee attacks. When used, it will eventually lose its sharpness and become damaged. Spears made from better materials will last longer and deal more damage. Thrown spears will stick into soft materials. It may be difficult to remove spears that are too hard to embed themselves.",
+      "CRDescription:0": "Craft with iron spear and iron ingot"
+    },
+    "SteelMacheteBlock:0": {
+      "DisplayName": "Steel Machete",
+      "Description": "The machete is a simple sword-like slashing weapon that is very effective for melee attacks. When used, the machete will gradually lose its sharpness and eventually become damaged. Machetes made from better materials will last longer and deal more damage.",
+      "CRDescription:0": "Craft with iron machete and iron ingot"
+    },
+    "SteelHammerBlock:0": {
+      "DisplayName": "Steel Hammer",
+      "Description": "Steel hammer is a tool used for mining hard blocks such as stone or ice. It has the fastest mining process, but eventually they will be discarded due to severe damage.",
+      "CRDescription:0": "Craft with iron hammer and iron ingot"
+    },
+    "AlloyCopperShovelBlock:0": {
+      "DisplayName": "Alloy Copper Shovel",
+      "Description": "Alloy copper tool that can perform like steel tools, but with less durability than steel tools.",
+      "CRDescription:0": "Craft with copper shovel and copper ingot"
+    },
+    "AlloyCopperPickaxeBlock:0": {
+      "DisplayName": "Alloy Copper Pickaxe",
+      "Description": "Alloy copper tool that can perform like steel tools, but with less durability than steel tools.",
+      "CRDescription:0": "Craft with copper pickaxe and copper ingot"
+    },
+    "AlloyCopperAxeBlock:0": {
+      "DisplayName": "Alloy Copper Axe",
+      "Description": "Alloy copper tool that can perform like steel tools, but with less durability than steel tools.",
+      "CRDescription:0": "Craft with copper axe and copper ingot"
+    },
+    "AlloyCopperRakeBlock:0": {
+      "DisplayName": "Alloy Copper Rake",
+      "Description": "Alloy copper tool that can perform like steel tools, but with less durability than steel tools.",
+      "CRDescription:0": "Craft with copper rake and copper ingot"
+    },
+    "AlloyCopperSpearBlock:0": {
+      "DisplayName": "Alloy Copper Spear",
+      "Description": "Alloy copper tool that can perform like steel tools, but with less durability than steel tools.",
+      "CRDescription:0": "Craft with copper spear and copper ingot"
+    },
+    "AlloyCopperMacheteBlock:0": {
+      "DisplayName": "Alloy Copper Machete",
+      "Description": "Alloy copper tool that can perform like steel tools, but with less durability than steel tools.",
+      "CRDescription:0": "Craft with copper machete and copper ingot"
+    },
+    "AlloyCopperHammerBlock:0": {
+      "DisplayName": "Alloy Copper Hammer",
+      "Description": "Alloy copper tool that can perform like steel tools, but with less durability than steel tools.",
+      "CRDescription:0": "Craft with copper hammer and copper ingot"
+    },
+    "CopperHammerBlock:0": {
+      "DisplayName": "Copper Hammer",
+      "Description": "Copper hammer is a tool used for mining hard blocks such as stone or ice. It has a relatively fast mining process, but eventually they will be discarded due to severe damage.",
+      "CRDescription:0": "Craft with stick and copper ingot"
+    },
+    "DiamondHammerBlock:0": {
+      "DisplayName": "Diamond Hammer",
+      "Description": "Diamond hammer is a tool used for mining hard blocks such as stone or ice. It has a relatively fast mining process, but eventually they will be discarded due to severe damage.",
+      "CRDescription:0": "Craft with stick and diamond"
+    },
+    "CrystalShovelBlock:0": {
+      "DisplayName": "Crystal Shovel",
+      "Description": "Shovels are tools used for digging blocks made of loose materials such as sand or gravel. They greatly speed up the digging process, but eventually they will be discarded due to severe damage. Shovels made from better materials last longer and dig faster.",
+      "CRDescription:0": "Craft with diamond shovel and diamond"
+    },
+    "CrystalPickaxeBlock:0": {
+      "DisplayName": "Crystal Pickaxe",
+      "Description": "Pickaxes are tools used for mining hard blocks such as stone or ice. They greatly speed up the mining process, but eventually they will be discarded due to severe damage. Pickaxes made from better materials last longer and mine faster.",
+      "CRDescription:0": "Craft with diamond pickaxe and diamond"
+    },
+    "CrystalAxeBlock:0": {
+      "DisplayName": "Crystal Axe",
+      "Description": "Axes are tools used for cutting soft blocks such as wood, furniture, or leaves. They greatly speed up the cutting process, but eventually they will be discarded due to severe damage. Axes made from better materials last longer and cut faster. The axe is also a powerful weapon, although it is difficult to hit moving targets.",
+      "CRDescription:0": "Craft with diamond axe and diamond"
+    },
+    "CrystalRakeBlock:0": {
+      "DisplayName": "Crystal Rake",
+      "Description": "Rakes are tools that convert soil into farmland. After the rake turns soil into farmland, it can be planted. Rakes will eventually be discarded due to severe damage. Rakes made from better materials last longer.",
+      "CRDescription:0": "Craft with diamond rake and diamond"
+    },
+    "CrystalSpearBlock:0": {
+      "DisplayName": "Crystal Spear",
+      "Description": "The spear is a versatile weapon that can be both thrown and used for melee attacks. When used, it will eventually lose its sharpness and become damaged. Spears made from better materials will last longer and deal more damage. Thrown spears will stick into soft materials. It may be difficult to remove spears that are too hard to embed themselves.",
+      "CRDescription:0": "Craft with diamond spear and diamond"
+    },
+    "CrystalMacheteBlock:0": {
+      "DisplayName": "Crystal Machete",
+      "Description": "The machete is a simple sword-like slashing weapon that is very effective for melee attacks. When used, the machete will gradually lose its sharpness and eventually become damaged. Machetes made from better materials will last longer and deal more damage.",
+      "CRDescription:0": "Craft with diamond machete and diamond"
+    },
+    "CrystalHammerBlock:0": {
+      "DisplayName": "Crystal Hammer",
+      "Description": "Crystal hammer is a tool used for mining hard blocks such as stone or ice. It has the fastest mining process, but eventually they will be discarded due to severe damage.",
+      "CRDescription:0": "Craft with diamond hammer and diamond"
+    }
+  }
+}

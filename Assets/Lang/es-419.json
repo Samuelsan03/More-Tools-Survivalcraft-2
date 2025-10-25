@@ -1,0 +1,119 @@
+{
+  "Blocks": {
+    "SteelShovelBlock:0": {
+      "DisplayName": "Pala de Acero",
+      "Description": "Las palas son herramientas utilizadas para excavar bloques hechos de materiales sueltos como arena o grava. Aceleran mucho el proceso de excavación, pero eventualmente se descartan debido a daños severos. Las palas hechas de mejores materiales duran más y excavan más rápido.",
+      "CRDescription:0": "Fabricar con pala de hierro y lingote de hierro"
+    },
+    "SteelPickaxeBlock:0": {
+      "DisplayName": "Pico de Acero",
+      "Description": "Los picos son herramientas utilizadas para minar bloques duros como piedra o hielo. Aceleran mucho el proceso de minería, pero eventualmente se descartan debido a daños severos. Los picos hechos de mejores materiales duran más y minan más rápido.",
+      "CRDescription:0": "Fabricar con pico de hierro y lingote de hierro"
+    },
+    "SteelAxeBlock:0": {
+      "DisplayName": "Hacha de Acero",
+      "Description": "El hacha de acero es una herramienta utilizada para cortar bloques blandos como madera, muebles u hojas. Acelera mucho el proceso de corte, pero eventualmente se descarta debido a daños severos. Las hachas hechas de mejores materiales duran más y cortan más rápido. El hacha también es un arma poderosa, aunque es difícil golpear objetivos en movimiento.",
+      "CRDescription:0": "Fabricar con hacha de hierro y lingote de hierro"
+    },
+    "SteelRakeBlock:0": {
+      "DisplayName": "Rastrillo de Acero",
+      "Description": "Los rastrillos son herramientas que convierten la tierra en tierra de cultivo. Después de que el rastrillo convierte la tierra en tierra de cultivo, se puede plantar. Los rastrillos eventualmente se descartan debido a daños severos. Los rastrillos hechos de mejores materiales duran más.",
+      "CRDescription:0": "Fabricar con rastrillo de hierro y lingote de hierro"
+    },
+    "SteelSpearBlock:0": {
+      "DisplayName": "Lanza de Acero",
+      "Description": "La lanza es un arma versátil que se puede lanzar y usar para ataques cuerpo a cuerpo. Cuando se usa, eventualmente perderá su filo y se dañará. Las lanzas hechas de mejores materiales durarán más y causarán más daño. Las lanzas lanzadas se clavarán en materiales blandos. Puede ser difícil remover lanzas que son demasiado difíciles de incrustar.",
+      "CRDescription:0": "Fabricar con lanza de hierro y lingote de hierro"
+    },
+    "SteelMacheteBlock:0": {
+      "DisplayName": "Machete de Acero",
+      "Description": "El machete es un arma cortante simple similar a una espada que es muy efectiva para ataques cuerpo a cuerpo. Cuando se usa, el machete gradualmente perderá su filo y eventualmente se dañará. Los machetes hechos de mejores materiales durarán más y causarán más daño.",
+      "CRDescription:0": "Fabricar con machete de hierro y lingote de hierro"
+    },
+    "SteelHammerBlock:0": {
+      "DisplayName": "Martillo de Acero",
+      "Description": "El martillo de acero es una herramienta utilizada para minar bloques duros como piedra o hielo. Tiene el proceso de minería más rápido, pero eventualmente se descarta debido a daños severos.",
+      "CRDescription:0": "Fabricar con martillo de hierro y lingote de hierro"
+    },
+    "AlloyCopperShovelBlock:0": {
+      "DisplayName": "Pala de Cobre Aleado",
+      "Description": "Herramienta de cobre aleado que puede desempeñarse como herramientas de acero, pero con menos durabilidad que las herramientas de acero.",
+      "CRDescription:0": "Fabricar con pala de cobre y lingote de cobre"
+    },
+    "AlloyCopperPickaxeBlock:0": {
+      "DisplayName": "Pico de Cobre Aleado",
+      "Description": "Herramienta de cobre aleado que puede desempeñarse como herramientas de acero, pero con menos durabilidad que las herramientas de acero.",
+      "CRDescription:0": "Fabricar con pico de cobre y lingote de cobre"
+    },
+    "AlloyCopperAxeBlock:0": {
+      "DisplayName": "Hacha de Cobre Aleado",
+      "Description": "Herramienta de cobre aleado que puede desempeñarse como herramientas de acero, pero con menos durabilidad que las herramientas de acero.",
+      "CRDescription:0": "Fabricar con hacha de cobre y lingote de cobre"
+    },
+    "AlloyCopperRakeBlock:0": {
+      "DisplayName": "Rastrillo de Cobre Aleado",
+      "Description": "Herramienta de cobre aleado que puede desempeñarse como herramientas de acero, pero con menos durabilidad que las herramientas de acero.",
+      "CRDescription:0": "Fabricar con rastrillo de cobre y lingote de cobre"
+    },
+    "AlloyCopperSpearBlock:0": {
+      "DisplayName": "Lanza de Cobre Aleado",
+      "Description": "Herramienta de cobre aleado que puede desempeñarse como herramientas de acero, pero con menos durabilidad que las herramientas de acero.",
+      "CRDescription:0": "Fabricar con lanza de cobre y lingote de cobre"
+    },
+    "AlloyCopperMacheteBlock:0": {
+      "DisplayName": "Machete de Cobre Aleado",
+      "Description": "Herramienta de cobre aleado que puede desempeñarse como herramientas de acero, pero con menos durabilidad que las herramientas de acero.",
+      "CRDescription:0": "Fabricar con machete de cobre y lingote de cobre"
+    },
+    "AlloyCopperHammerBlock:0": {
+      "DisplayName": "Martillo de Cobre Aleado",
+      "Description": "Herramienta de cobre aleado que puede desempeñarse como herramientas de acero, pero con menos durabilidad que las herramientas de acero.",
+      "CRDescription:0": "Fabricar con martillo de cobre y lingote de cobre"
+    },
+    "CopperHammerBlock:0": {
+      "DisplayName": "Martillo de Cobre",
+      "Description": "El martillo de cobre es una herramienta utilizada para minar bloques duros como piedra o hielo. Tiene un proceso de minería relativamente rápido, pero eventualmente se descarta debido a daños severos.",
+      "CRDescription:0": "Fabricar con palo y lingote de cobre"
+    },
+    "DiamondHammerBlock:0": {
+      "DisplayName": "Martillo de Diamante",
+      "Description": "El martillo de diamante es una herramienta utilizada para minar bloques duros como piedra o hielo. Tiene un proceso de minería relativamente rápido, pero eventualmente se descarta debido a daños severos.",
+      "CRDescription:0": "Fabricar con palo y diamante"
+    },
+    "CrystalShovelBlock:0": {
+      "DisplayName": "Pala de Cristal",
+      "Description": "Las palas son herramientas utilizadas para excavar bloques hechos de materiales sueltos como arena o grava. Aceleran mucho el proceso de excavación, pero eventualmente se descartan debido a daños severos. Las palas hechas de mejores materiales duran más y excavan más rápido.",
+      "CRDescription:0": "Fabricar con pala de diamante y diamante"
+    },
+    "CrystalPickaxeBlock:0": {
+      "DisplayName": "Pico de Cristal",
+      "Description": "Los picos son herramientas utilizadas para minar bloques duros como piedra o hielo. Aceleran mucho el proceso de minería, pero eventualmente se descartan debido a daños severos. Los picos hechos de mejores materiales duran más y minan más rápido.",
+      "CRDescription:0": "Fabricar con pico de diamante y diamante"
+    },
+    "CrystalAxeBlock:0": {
+      "DisplayName": "Hacha de Cristal",
+      "Description": "Las hachas son herramientas utilizadas para cortar bloques blandos como madera, muebles u hojas. Aceleran mucho el proceso de corte, pero eventualmente se descartan debido a daños severos. Las hachas hechas de mejores materiales duran más y cortan más rápido. El hacha también es un arma poderosa, aunque es difícil golpear objetivos en movimiento.",
+      "CRDescription:0": "Fabricar con hacha de diamante y diamante"
+    },
+    "CrystalRakeBlock:0": {
+      "DisplayName": "Rastrillo de Cristal",
+      "Description": "Los rastrillos son herramientas que convierten la tierra en tierra de cultivo. Después de que el rastrillo convierte la tierra en tierra de cultivo, se puede plantar. Los rastrillos eventualmente se descartan debido a daños severos. Los rastrillos hechos de mejores materiales duran más.",
+      "CRDescription:0": "Fabricar con rastrillo de diamante y diamante"
+    },
+    "CrystalSpearBlock:0": {
+      "DisplayName": "Lanza de Cristal",
+      "Description": "La lanza es un arma versátil que se puede lanzar y usar para ataques cuerpo a cuerpo. Cuando se usa, eventualmente perderá su filo y se dañará. Las lanzas hechas de mejores materiales durarán más y causarán más daño. Las lanzas lanzadas se clavarán en materiales blandos. Puede ser difícil remover lanzas que son demasiado difíciles de incrustar.",
+      "CRDescription:0": "Fabricar con lanza de diamante y diamante"
+    },
+    "CrystalMacheteBlock:0": {
+      "DisplayName": "Machete de Cristal",
+      "Description": "El machete es un arma cortante simple similar a una espada que es muy efectiva para ataques cuerpo a cuerpo. Cuando se usa, el machete gradualmente perderá su filo y eventualmente se dañará. Los machetes hechos de mejores materiales durarán más y causarán más daño.",
+      "CRDescription:0": "Fabricar con machete de diamante y diamante"
+    },
+    "CrystalHammerBlock:0": {
+      "DisplayName": "Martillo de Cristal",
+      "Description": "El martillo de cristal es una herramienta utilizada para minar bloques duros como piedra o hielo. Tiene el proceso de minería más rápido, pero eventualmente se descarta debido a daños severos.",
+      "CRDescription:0": "Fabricar con martillo de diamante y diamante"
+    }
+  }
+}
