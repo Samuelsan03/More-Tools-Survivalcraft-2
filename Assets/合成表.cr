@@ -56,7 +56,7 @@
 	 " b "
 	 "bab"
 	</Recipe>
-	<Recipe Result="CopperHammerBlock" ResultCount="1" RequiredHeatLevel="0" a="stick" b="copperingot" Description="C[0]">
+	<Recipe Result="CopperHammerBlock" ResultCount="1" RequiredHeatLevel="0" a="stick" b="copperingot" Description="[0]">
 	 "bbb"
 	 "bab"
 	 " a "
